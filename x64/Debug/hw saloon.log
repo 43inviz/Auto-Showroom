@@ -1,0 +1,6 @@
+﻿  Source1.cpp
+C:\Users\User\Desktop\projects c++\HW_RKS\hw saloon\saleFunct.h(145,22): warning C4553: '==': result of expression not used; did you intend '='?
+  (compiling source file 'Source1.cpp')
+  
+C:\Users\User\Desktop\projects c++\HW_RKS\hw saloon\employeeFunct.h(163): warning C4715: 'searchIndex': not all control paths return a value
+  hw saloon.vcxproj -> C:\Users\User\Desktop\projects c++\HW_RKS\x64\Debug\hw saloon.exe
